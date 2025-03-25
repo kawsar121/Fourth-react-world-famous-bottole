@@ -1,0 +1,5 @@
+.box{
+    display: flex;
+    gap: 20px;
+    /* border: 2px solid rgb(199, 194, 204) */
+}
